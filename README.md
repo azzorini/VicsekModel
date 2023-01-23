@@ -1,4 +1,4 @@
-# VicsekModel
+# Vicsek Model
 
 In this repository I give some code to simulate the Vicsek model. All the code is written in C++ except for a Jupyter Notebook that was used to generate GIFs from the data.
 
